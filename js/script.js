@@ -4,4 +4,9 @@
 let array = [];
 let userNumber = parseInt(prompt('inserisci un numero'));
 
-while()
+let somma = 50 ;
+
+while( userNumber < somma) {
+    userNumber = parseInt(prompt('inserisci un numero'));
+    
+}
